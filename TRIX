@@ -1,4 +1,5 @@
 //on stocks and commodities
+//@version=3
 study("TRIX")
 
 length = input(title="Length", type=integer, defval=14)
